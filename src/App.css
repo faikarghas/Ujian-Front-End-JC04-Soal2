@@ -1,0 +1,19 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url('./img/gambar.jpg');
+  background-size:100%;
+}
+h1,button,h4{
+  color:white;
+  font-family: 'arial';
+}
+p{
+  font-family: 'arial';
+}
+img{
+  width: 300px;
+  height: 300px;
+}
